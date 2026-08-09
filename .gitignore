@@ -141,3 +141,18 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# ==========================================
+# CEP / VS Code & Build Regeln
+# ==========================================
+.debug
+debug.txt
+.vscode/
+
+# Zertifikate und Schlüssel
+*.p12
+*.key
+*.pem
+
+# Kompilierte Pakete
+*.zxp
