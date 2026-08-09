@@ -1,6 +1,6 @@
-#AdjFlow for Adobe Premiere Pro
+# AdjFlow for Adobe Premiere Pro
 
-**AdjFlow** is a streamlined CEP panel for Adobe Premiere Pro designed to drastically speed up your editing workflow. Generate adjustment layers, create color mattes, and apply effects or custom keyframe presets with a single click.
+### **AdjFlow** is a streamlined CEP panel for Adobe Premiere Pro designed to drastically speed up your editing workflow. Generate adjustment layers, create color mattes, and apply effects or custom keyframe presets with a single click.
 
 ---
 
